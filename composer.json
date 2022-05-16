@@ -1,0 +1,13 @@
+{
+    "name": "vh/curiosity",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vanhalf",
+            "email": "vh.win32@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
